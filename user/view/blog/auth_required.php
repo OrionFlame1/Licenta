@@ -1,0 +1,1 @@
+<button class="mt-5 btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#login">Trebuie să te autentifici pentru a comenta</button>

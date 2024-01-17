@@ -1,0 +1,1 @@
+<button class="mt-5 btn btn-secondary disabled rounded">Nu poți să comentezi folosind un cont dezactivat.</button>

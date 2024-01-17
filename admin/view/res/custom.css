@@ -1,0 +1,32 @@
+body {
+    background: url('landscape.jpg') no-repeat;
+    background-size: cover;
+}
+
+.note-editor {
+    background-color: white;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.admin_nav button {
+    min-width: 250px;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.2px);
+    border: 1px solid rgba(255, 255, 255, 0.38);
+}
+
+.glass .text-decoration-none {
+    color: inherit;
+}
+
+.col-3.bg-primary {
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.5);
+}
